@@ -1,0 +1,55 @@
+nav{
+    margin-top: 0px;
+}
+.logo{
+    width: 250px;
+    height: 200px;
+}
+.a{
+    background-color: antiquewhite;
+    font-size: large;
+    font-weight: bold;
+}
+nav>a{
+    border: 2px solid orange;
+    background-color: orange;
+    text-decoration: none;
+    color: black;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border-radius: 80px;
+    margin-left: 30px;
+    margin-right: 30px;
+}
+a:hover{
+    color: blanchedalmond;
+}
+.idly{
+    margin-top: 100px;
+    margin-left: 100px;
+}
+.dosa{
+    margin-top: 150px;
+    margin-left: 50px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.arts{
+    margin-top: 150px;
+    margin-left: 100px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.art{
+    display: flex;
+}
+.hits{
+    display: flex;
+}
+.foot{
+    margin-top: 50px;
+    font-size: larger;
+    background-color: grey;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}

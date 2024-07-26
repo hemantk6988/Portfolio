@@ -1,0 +1,44 @@
+#nav>a
+{
+    color: white;
+    text-decoration: none;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    padding-left: 1.5%;
+    padding-right: 1.5%;
+    border-radius: 12px;
+    margin-right: 3%;
+    align-content: center;
+    
+}
+#nav>a:hover
+{
+    color: black;
+}
+#nav{
+    margin-top: 2%;
+    background-color: gray;
+    padding-top: 1.5%;
+    padding-bottom: 1.5%;
+    width: 97%;
+    border-radius: 10px;
+}
+#git{
+    border-radius: 50%;
+    width: 40px;
+    height: 40px;
+}
+#insta{
+    border-radius: 50%;
+    width: 40px;
+    height: 40px;
+}
+#link{
+    border-radius: 50%;
+    width: 40px;
+    height: 40px;
+}
+#dis{
+    border-radius: 50%;
+    width: 65px;
+    height: 40px;
+}
